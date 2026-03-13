@@ -1,3 +1,8 @@
+Being the code for the submitted manuscript titled "Hybrid Quantile Delta - Deep Learning Bias Correction Technique for Enhancing Climate Risk Assessment in a Reservoir-Modulated Basin"
+
+Run the main_pipeline.py script after obtaining the right data. Our data have been removed for privacy reasons
+
+
 Residual-based QDM-LSTM Hybrid Bias Correction Technique for CMIP6 Climate Projections in Reservoir-Modulated Basins
 Overview
 
